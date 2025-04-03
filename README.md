@@ -59,7 +59,7 @@ Ensure you have the following installed:
 
 | Home Screen |
 |------------|
-| ![Home](screenshots/home.png) | 
+| ![Home](https://github.com/itsdevzam/InternIntelligence_MovieGo/blob/main/assets/home.png) | 
 
 ## 🤝 Contribution
 
